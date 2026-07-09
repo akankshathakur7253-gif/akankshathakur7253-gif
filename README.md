@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Akanksha Raghav
 
-<!--
-**akankshathakur7253-gif/akankshathakur7253-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (3rd Year)
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Agentic AI & AWS Intern
+
+🌱 Currently Learning React, Flutter, FastAPI & AI
+
+---
+
+## 🚀 Tech Stack
+
+- Python
+- React.js
+- Flutter
+- FastAPI
+- MongoDB
+- Firebase
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🌟 My Projects
+
+🏥 CareNest Hospital Management System
+
+🤖 AI Research Agent
+
+📄 AI Resume Matcher
+
+📰 Fake News Detection
+
+---
+
+## 📫 Connect with Me
+
+GitHub:
+https://github.com/akankshathakur7253-gif
+
+LinkedIn:
+(Add your LinkedIn URL here)
